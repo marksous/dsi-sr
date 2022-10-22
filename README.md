@@ -1,2 +1,4 @@
 # dsi-sr
-Desenvolvimento para Servidores I - Fatec de São Roque
+Disciplina de Desenvolvimento para Servidores I - aulas ministradas na Fatec de São Roque
+
+# Sobre
